@@ -1,0 +1,4 @@
+1. Debe ingresar a la siguiente ruta para poder desplegar el proyecto de prueba que se encuentra en la siguiente url: https://github.com/theekhriss/test.git
+2. una vez descargado el proyecto debe debe verificar las conecciones a las bases de datos para poder realizar la conexion a ella(en este caso use MySql)
+3. una vez vez que la base de datos este desplegada , se debe crear una dba con el nombre "test" para poder realizar el despliegue del proyecto y la creacion de las tables de bases de dato,una vez hecho esto se debe ejecutar ,los siguientes insert que se encuentran en el siguiente archivo [https://github.com/theekhriss/front_test](https://github.com/theekhriss/front_test/blob/master/tipo_musica_202403121139.sql)
+4. una vez el proyecto esta desplegado, se debe ejecutar el test.html, para poder realizar las pruebas he ingreso de informacion el cual se cuentra en la siguiente ruta https://github.com/theekhriss/front_test/blob/master/test.html
